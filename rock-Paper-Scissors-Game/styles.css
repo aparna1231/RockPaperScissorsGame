@@ -1,0 +1,43 @@
+body {
+	color: black;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	line-height: 24px;
+    margin: 32px;
+}
+
+h1 {
+    font-size: 33px;
+    margin-bottom: 32px;
+}
+
+button {
+	font-size: 120px;
+    cursor: pointer;
+    width: 185px;
+    height: 260px;
+    margin-right: 16px;
+    margin-top: 16px;
+    vertical-align: middle;
+}
+
+#scores {
+    width: 620px;
+}
+
+#computerScore {
+     float: right;
+}
+
+#button1 {
+    background-image: url("images/rock.jpg");
+	 background-repeat: no-repeat;
+}
+#button2 {
+    background-image: url("images/paper.jpg");
+	 background-repeat: no-repeat;
+}
+#button3 {
+    background-image: url("images/scessors.jpg");
+	 background-repeat: no-repeat;
+}
